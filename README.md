@@ -21,15 +21,15 @@ The project eliminates the need for time-consuming manual field surveys and prov
 
 ## 📖 Table of Contents
 
-1. [Abstract](#abstract)
-2. [Problem Statement](#problem-statement)
-3. [Tools & Technologies](#tools--technologies)
-4. [Methodology](#methodology)
-5. [Results & Visualizations](#results--visualizations)
-6. [Project Structure](#project-structure)
-7. [Outcome](#outcome)
-8. [Future Scope](#future-scope)
-9. [Credits](#credits)
+1. [🧠 Abstract](#abstract)
+2. [🚩 Problem Statement](#problem-statement)
+3. [🛠️ Tools & Technologies](#tools--technologies)
+4. [🔍 Methodology](#methodology)
+5. [📊 Results & Visualizations](#results--visualizations)
+6. [📁 Project Structure](#project-structure)
+7. [✅ Outcome](#outcome)
+8. [🚀 Future Scope](#future-scope)
+9. [👨‍💻 Credits](#credits)
 
 ---
 
