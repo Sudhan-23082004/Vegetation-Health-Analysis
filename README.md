@@ -1,4 +1,13 @@
-# 🌿 Vegetation Health Analysis using UAV Remote Sensing
+<p align="center">
+  <img src="Assets/Indian_Space_Research_Organisation_Logo.svg.png" alt="ISRO Logo" width="140" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/NESAC-Logo-1-1024x622-removebg-preview.png" alt="NESAC Logo" width="190" height="130"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+<h1 align="center">🌾 Vegetation Health Analysis using UAV Remote Sensing</h1>
+
+<p align="center"><em>Project done under the guidance of <strong>Dr. Pradesh Jena</strong> at <strong>NESAC – ISRO</strong></em></p>
 
 > **Project Title:** Vegetation Health Analysis Using UAV Remote Sensing  
 > **Developed By:** Sudhan R  
@@ -9,15 +18,12 @@
 > **Domains:** Remote Sensing · Precision Agriculture · UAV Imaging  
 > **Technologies Used:** UAV | Pix4D | QGIS | Tableau | Mission Planner  
 
----
-
 ## 📌 Overview
 
 This project leverages Unmanned Aerial Vehicles (UAVs) and spectral imaging techniques to analyze vegetation health for agricultural monitoring. By calculating **Normalized Difference Vegetation Index (NDVI)** and **Normalized Difference Red Edge (NDRE)** using multispectral UAV imagery, we detect and visualize plant stress levels and identify cropped vs. non-cropped zones.
 
 The project eliminates the need for time-consuming manual field surveys and provides an efficient, data-driven approach to precision farming.
 
----
 
 ## 📖 Table of Contents
 
@@ -31,13 +37,11 @@ The project eliminates the need for time-consuming manual field surveys and prov
 8. [🚀 Future Scope](#future-scope)
 9. [👨‍💻 Credits](#credits)
 
----
 
 ## 🧠 Abstract
 
 Efficient monitoring of crop health is crucial in precision agriculture to optimize yield and sustainability. This project utilizes UAV-based remote sensing with spectral indices like NDVI and NDRE to assess vegetation stress. High-resolution images were processed through Pix4D and analyzed in QGIS to classify cropped areas and determine vegetation health. The outcomes were visualized using Tableau, offering a robust, real-time monitoring solution that reduces manual error and improves decision-making in agriculture.
 
----
 
 ## 🚩 Problem Statement
 
@@ -48,7 +52,6 @@ Traditional methods such as manual field surveys are labor-intensive, subjective
 - Inaccurate manual assessment methods
 - Absence of data-driven insights for decision-making
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -60,7 +63,6 @@ Traditional methods such as manual field surveys are labor-intensive, subjective
 | **Tableau**           | Visualizing stress maps and dashboards     |
 | **Multispectral Camera** | Capturing high-resolution UAV images       |
 
----
 
 ## 🔍 Methodology
 
@@ -91,7 +93,6 @@ Traditional methods such as manual field surveys are labor-intensive, subjective
   - Crop stress classification
   - Vegetation index distribution
 
----
 
 ## 📊 Results & Visualizations
 
@@ -102,9 +103,8 @@ Traditional methods such as manual field surveys are labor-intensive, subjective
 | Tableau Dashboard        | Visualization of vegetation health     |
 | DSM (Digital Surface Model) | Elevation-based analysis             |
 
-> Screenshots and maps can be found in the `images/` folder.
+> Screenshots and maps can be found in the `Output/` folder.
 
----
 
 ## 📁 Project Structure
 
@@ -117,7 +117,6 @@ UAV-Vegetation-Health/
 ├── 📄 README.md                      # Project documentation (you are here)
 ├── 📄 LICENSE                        # License file
 ```
----
 
 ## ✅ Outcome
 
@@ -126,7 +125,6 @@ UAV-Vegetation-Health/
 - Created an easy-to-interpret **decision support system**  
 - Promoted **sustainable agricultural practices** using real-time insights  
 
----
 
 ## 🚀 Future Scope
 
@@ -135,7 +133,6 @@ UAV-Vegetation-Health/
 - Expansion to **multi-seasonal crop monitoring** for yield forecasting  
 - Incorporation of **UAV LiDAR** and **hyperspectral imaging** for advanced analysis  
 
----
 
 ## 👨‍💻 Credits
 
