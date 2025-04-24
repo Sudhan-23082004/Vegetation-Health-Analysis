@@ -5,7 +5,7 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">🌾 Vegetation Health Analysis using UAV Remote Sensing</h1>
+<h2 align="center">🌾 Vegetation Health Analysis using UAV Remote Sensing</h2>
 
 <p align="center"><em>Project done under the guidance of <strong>Dr. Pradesh Jena</strong> at <strong>NESAC – ISRO</strong></em></p>
 
