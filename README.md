@@ -110,11 +110,12 @@ Traditional methods such as manual field surveys are labor-intensive, subjective
 
 ```bash
 UAV-Vegetation-Health/
-├── 📁 data/                  # Raw and processed UAV images
-├── 📁 qgis/                  # QGIS project files & index layers
-├── 📁 tableau/               # Tableau dashboards (.twbx)
-├── 📁 images/                # Output maps, screenshots
-├── 📄 README.md              # Project documentation
+├── 📁 Output/                         # Final processed outputs (NDVI, NDRE maps)
+├── 📁 Picture/                        # UAV field images taken at NESAC
+├── 📄 reclassified_ndvi23_10.qgz     # QGIS project file with NDVI layer
+├── 📄 Template Agricultural Application.pptx  # Project PPT
+├── 📄 README.md                      # Project documentation (you are here)
+├── 📄 LICENSE                        # License file
 ```
 ---
 
